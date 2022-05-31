@@ -37,7 +37,7 @@
   --bs-danger: #dc3545;
   --bs-light: #f8f9fa;
   --bs-dark: #212529;
-  --bs-marglodis-rgb: 214, 51, 149;
+  --bs-marglodis-rgb: 214, 51, 149;  /* MI NUEVO COLOR*/
   --bs-primary-rgb: 13, 110, 253;
   --bs-secondary-rgb: 108, 117, 125;
   --bs-success-rgb: 25, 135, 84;
@@ -50,7 +50,7 @@
   --bs-black-rgb: 0, 0, 0;
   --bs-body-color-rgb: 33, 37, 41;
   --bs-body-bg-rgb: 255, 255, 255;
-  --bs-font-sans-serif: "EB Garamond", serif;
+  --bs-font-sans-serif: "EB Garamond", serif; /* MI NUEVA TIPOGRAFIA*/
   --bs-font-monospace: "EB Garamond", serif;
   --bs-gradient: linear-gradient(180deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0));
   --bs-body-font-family: var(--bs-font-sans-serif);
