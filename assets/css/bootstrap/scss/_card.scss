@@ -3,7 +3,7 @@
 //
 
 .card {
-  @extend .text-light;
+  @extend .text-light; /* Y los extend sugeridos*/
   @extend .bg-dark;
 
   position: relative;
